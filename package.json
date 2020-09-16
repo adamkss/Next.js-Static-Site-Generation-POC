@@ -1,0 +1,20 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "start:server": "json-server --port 3001 --watch blog-data.json"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}

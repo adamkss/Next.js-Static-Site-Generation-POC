@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "I had an amazing day!",
+      "content": "Today was an awesome day. I woke up and..."
+    },
+    {
+      "id": 2,
+      "title": "My boss fired me today.",
+      "content": "Just kidding! I fired him. So I was in the..."
+    }
+  ]
+}
